@@ -14,3 +14,9 @@
 - thirdparty # 第三方的一些库或者文件
   - json.hpp
 
+Nginx负载均衡配置
+1、安装Nginx
+2、去 \user\local\nginx\nginx.conf 添加配置
+...
+Redis配置
+...
